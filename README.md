@@ -19,6 +19,5 @@ resources/
 routes/
  └── web.php                     <-- Route Definitions
 
- 
 
 
